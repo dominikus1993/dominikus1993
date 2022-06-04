@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [micro-eshop(microservices eshop sample)](https://github.com/micro-eshop)
 
-- 🌱 I’m currently learning **Rust, Go, NodeJs**
+- 🌱 I’m currently learning **Rust, Go, NodeJs, Security, OpenTelemetry**
 
 - 💬 Ask me about **dotnet, F#, C#**
 
