@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [micro-eshop(microservices eshop sample)](https://github.com/micro-eshop)
 
-- 🌱 I’m currently learning **Rust, Go, Python**
+- 🌱 I’m currently learning **Rust, Go, NodeJs**
 
-- 💬 Ask me about **dotnet, F#**
+- 💬 Ask me about **dotnet, F#, C#**
 
 - 📫 How to reach me **dominik.kotecki1@gmail.com**
 
