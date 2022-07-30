@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/koteckidominik" target="blank"><img src="https://img.shields.io/twitter/follow/koteckidominik?logo=twitter&style=for-the-badge" alt="koteckidominik" /></a> </p>
 
-- 🔭 I’m currently working on [micro-eshop(microservices eshop sample)](https://github.com/micro-eshop)
+- 🔭 I’m currently working on [stonksy(stock trading bot)]([https://github.com/micro-eshop](https://github.com/stonksy-app))
 
-- 🌱 I’m currently learning **Rust, Go, NodeJs, Security, OpenTelemetry**
+- 🌱 I’m currently learning **Rust, Python, Distributed Computing, OpenTelemetry**
 
-- 💬 Ask me about **dotnet, F#, C#**
+- 💬 Ask me about **dotnet, F#, C#, Go**
 
 - 📫 How to reach me **dominik.kotecki1@gmail.com**
 
