@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [stonksy(stock trading bot) and distributed-tracing-sample](https://github.com/micro-eshop)
 
-- 🌱 I’m currently learning **Go, Python, Typescript**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **dotnet, F#, Go**
 
