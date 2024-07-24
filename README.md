@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [stonksy(stock trading bot) and distributed-tracing-sample](https://github.com/micro-eshop)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Angular&htmx**
 
-- 💬 Ask me about **dotnet, F#, Go**
+- 💬 Ask me about **dotnet, AWS, Go**
 
 - 📫 How to reach me **dominik.kotecki1@gmail.com**
 
